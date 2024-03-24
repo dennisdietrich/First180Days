@@ -1,4 +1,4 @@
-The following is a preview - or an _ad_, if you will - for my new talk "_Sitting in meetings all day long: My first 180 days as a new Software Engineering Manager_"
+The following is a preview - or an _ad_, if you will - for my new talk "_Sitting in meetings all day long: My first 180 days as a new Software Engineering Manager_" coming soon to a developer conference near you!
 
 ### Introduction
 
@@ -47,3 +47,43 @@ The first is [_HBR's 10 Must Reads for New Managers_](https://store.hbr.org/prod
 It's a collection of Harvard Business Review articles covering a variety of aspects of management of particular importance to new managers.
 The second is [_The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change_](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) by Camille Fournier.
 Unlike the HBR book it's specifically about software engineering management.
+
+### Leadership and management
+
+Once you're a manager your expected to, well, manage, but also lead.
+Unfortunately, these two terms are constantly conflated.
+While certainly related, at least in practical terms, they refer to distinct concepts.
+According to Wikipedia, management "[_is the process of managing the resources of businesses, governments, and other organizations_](https://en.wikipedia.org/wiki/Management)" whereas leadership "[_encompasses the ability of an individual, group, or organization to 'lead', influence, or guide other individuals, teams, or entire organizations_.](https://en.wikipedia.org/wiki/Leadership)"
+
+Let's start with management.
+Managing resources means deciding which resources are needed to reach an organization's goals, assigned them to concrete projects or tasks, and continually monitor and evaluate their performance.
+While the term _human resources_ is facing increasing scrutiny and criticism (and arguably for good reasons), it is a technically accurate term.
+You need to figure out how many engineers you need to staff all of your projects.
+You need to assign those engineers to projects.
+And you also need to evaluate the performance of your engineers to determine who needs what support and training as well as how to distribute bonus payments (the latter is not necessarily a given, but a reality at many, if not most, organizations).
+But the crucial difference compared to leading is this: As a manager you've been given the authority (and responsibility!) to issue orders.
+And you've been given the authority to take disciplinary action if your orders are not followed.
+The way I look at it, it's nothing an engineering manager should regularly rely on.
+I'm with the late Steve Jobs who said: "_It doesn't make sense to hire smart people and tell them what to do; we hire smart people so they can tell us what to do._"
+Granted, like so many things in (an engineering manager's) life, the applicability of this idea depends on the exact context.
+I can't expect an intern to come in and "tell me what to do," no matter how smart they are.
+And if you see even hints of things like mobbing, you have to step in, even issue formal reprimands if necessary.
+But then comes to setting the annual goals for my senior and principal engineers, I let them drive the discussion.
+And they come up with some really great ideas what we should be working on.
+Which is actually a great segue to leadership.
+
+Honestly, I want to manage my team a little as possible.
+I want to focus on leading as much as possible.
+This means inspiring people, setting an example, and rallying people behind my organization's goals, instead of giving orders.
+And this is tricky, because you can't force someone to follow you.
+The people reporting you have to do what you tell them to, because you're the manager.
+That doesn't mean they always will, but you're well within your rights to do so and to put people on notice if they don't comply.
+But that isn't leadership and nothing I want to spend my time on.
+You are a leader if, and only if, you can convince people to follow your lead willingly.
+But it doesn't end with you, the manager.
+Since a leader is someone people follow, anybody can potentially be a leader; it doesn't require one to become a manager first.
+This is known as _leading without authority_ and has two important implications for managers.
+First, you need to find out who the informal leaders on your team are, the people who have influence and who are being listened to because they've proven themselves and are respected and trusted.
+These are people you want to have on your side because if they aren't they may use their standing, intentionally or unintentionally, to undermine you.
+Second, you need to make sure to staff positions that inherently require leadership without authority with people who already are informal leaders or show clear signs of having that potential.
+These are positions like tech leads and architects, but also principal engineers fall in this category.
