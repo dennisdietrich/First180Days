@@ -87,3 +87,16 @@ First, you need to find out who the informal leaders on your team are, the peopl
 These are people you want to have on your side because if they aren't they may use their standing, intentionally or unintentionally, to undermine you.
 Second, you need to make sure to staff positions that inherently require leadership without authority with people who already are informal leaders or show clear signs of having that potential.
 These are positions like tech leads and architects, but also principal engineers fall in this category.
+
+### Lessons in communication
+
+Becoming a manager will have a profound impact on how you communicate.
+That starts with how people listen to you.
+Be prepared for people paying closer attention to what you say.
+And interestingly, this may as well go not only for your direct reports, but also ICs in sister teams and even ICs in other groups you work closely with.
+But don't expect this to necessarily mean that you'll get your point across easily.
+Sometimes people will zero in on what in your mind might was just a little detail or even a one-off comment.
+If that little detail turned out to be of particular importance on the receiving end, it may be the information that sticks, regardless of you intended.
+And speaking of intent, people will try to read between the lines.
+I learnt the hard way that this can go as far as someone assuming a particular, implied intent in what I'm saying, when in fact there wasn't any at all (I was merely asking clarification questions about something I didn't understand).
+Now, I don't think there's any way to fully avoid these pitfalls, but being aware of them and attempting to communicate as clearly and purposefully as possible certainly can't.
