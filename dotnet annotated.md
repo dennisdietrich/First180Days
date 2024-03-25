@@ -100,3 +100,13 @@ If that little detail turned out to be of particular importance on the receiving
 And speaking of intent, people will try to read between the lines.
 I learnt the hard way that this can go as far as someone assuming a particular, implied intent in what I'm saying, when in fact there wasn't any at all (I was merely asking clarification questions about something I didn't understand).
 Now, I don't think there's any way to fully avoid these pitfalls, but being aware of them and attempting to communicate as clearly and purposefully as possible certainly can't.
+
+### What's next?
+
+As a new manager, it's probably a good idea to master your new role.
+Because after all, that's what it is, a new job requiring new skills and a different mindset.
+And maybe you'll want to simply enjoy the ride for a while; I don't think there's anything wrong this that.
+But if you want to advance in your new management career, there's a fundamental question to answer to ensure that the job experiences you seek out and any additional education will take you in the right direction:
+Do you want to move into general management or not?
+Or in more concrete terms, is the goal to advance within engineering management and become a director or VP of software engineering, or do you want to become a business or product unit manager with full P&L responsibility and overseeing all functions of the unit?
+And I shall leave you with this question as this is very much where I am after my first 180 days, trying to master my new role and figure out where I want to be in a few years (though at the moment I strongly tend to staying in engineering management).
