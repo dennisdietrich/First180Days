@@ -63,12 +63,13 @@ You need to assign those engineers to projects.
 And you also need to evaluate the performance of your engineers to determine who needs what support and training as well as how to distribute bonus payments (the latter is not necessarily a given, but a reality at many, if not most, organizations).
 But the crucial difference compared to leading is this: As a manager you've been given the authority (and responsibility!) to issue orders.
 And you've been given the authority to take disciplinary action if your orders are not followed.
+
 The way I look at it, it's nothing an engineering manager should regularly rely on.
 I'm with the late Steve Jobs who said: "_It doesn't make sense to hire smart people and tell them what to do; we hire smart people so they can tell us what to do._"
 Granted, like so many things in (an engineering manager's) life, the applicability of this idea depends on the exact context.
 I can't expect an intern to come in and "tell me what to do," no matter how smart they are.
 And if you see even hints of things like mobbing, you have to step in, even issue formal reprimands if necessary.
-But then comes to setting the annual goals for my senior and principal engineers, I let them drive the discussion.
+But when it comes for example to setting the annual goals for my senior and principal engineers, I let them drive the discussion.
 And they come up with some really great ideas what we should be working on.
 Which is actually a great segue to leadership.
 
