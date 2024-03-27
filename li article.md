@@ -80,13 +80,14 @@ And this is tricky, because you can't force someone to follow you.
 The people reporting you have to do what you tell them to, because you're the manager.
 That doesn't mean they always will, but you're well within your rights to do so and to put people on notice if they don't comply.
 But that isn't leadership and nothing I want to spend my time on.
+
 You are a leader if, and only if, you can convince people to follow your lead willingly.
 But it doesn't end with you, the manager.
 Since a leader is someone people follow, anybody can potentially be a leader; it doesn't require one to become a manager first.
 This is known as _leading without authority_ and has two important implications for managers.
 First, you need to find out who the informal leaders on your team are, the people who have influence and who are being listened to because they've proven themselves and are respected and trusted.
 These are people you want to have on your side because if they aren't they may use their standing, intentionally or unintentionally, to undermine you.
-Second, you need to make sure to staff positions that inherently require leadership without authority with people who already are informal leaders or show clear signs of having that potential.
+Second, you need to make sure to staff positions that inherently require leadership without authority with people who already are informal leaders or at least show clear signs of having that potential.
 These are positions like tech leads and architects, but also principal engineers fall in this category.
 
 ### Lessons in communication
