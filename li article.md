@@ -32,9 +32,9 @@ But if you start to wish already that you had have more time to work on architec
 I, for one, enjoyed applying my at that point 10 years of software engineering experience in the background to support and enable a team of developers immensely.
 But I was wondering what options there were for gaining a good theoretical foundation.
 Unfortunately, this is often an afterthought in the private sector.
-My observation has been that manager training is often lacking and, if at all, not offered until after someone has been appointed.
+My observation has been that manager training is often lacking and is, if at all, not offered until after someone has been appointed and is already doing the job.
 Training for aspiring managers is often not available at all.
-Luckily, the advent of massive open online courses (MOOC) meant that aspiring managers don't have to rely on their employers anymore (though it would be better if they could).
+Luckily, the advent of massive open online courses (MOOC) means that aspiring managers don't have to rely on their employers anymore (though it would be better if they could).
 [Coursera](https://www.coursera.org), [edX](https://www.edx.org), and [LinkedIn Learning](https://learning.linkedin.com), just to name a few, each offer a huge catalog of courses available for relative low cost or even for free.
 Granted, the quality varies a lot, but with a bit of research you surely can find quality courses that suit your needs.
 I chose the (now discontinued) edX _Global Business Leadership and Management_ [MicroMasters](https://www.edx.org/masters/micromasters) consisting of the three courses _Global Leadership and Personal Development_, _Communicating and Negotiating in a Dynamic Global World_, and _Leading Digital and Data Decision Making_.
