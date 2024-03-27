@@ -44,16 +44,16 @@ This turned out to be even more difficult than picking a MOOC since so much as b
 And similar to MOOCs, the quality of management literature varies a lot.
 I ended up reading two that I can recommend.
 The first is [_HBR's 10 Must Reads for New Managers_](https://store.hbr.org/product/hbr-s-10-must-reads-for-new-managers-with-bonus-article-how-managers-become-leaders-by-michael-d-watkins/10134).
-It's a collection of Harvard Business Review articles covering a variety of aspects of management of particular importance to new managers.
+It's a collection of Harvard Business Review (HBR) articles covering a variety of aspects of management of particular importance to new managers.
 The second is [_The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change_](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) by Camille Fournier.
 Unlike the HBR book it's specifically about software engineering management.
 
 ### Leadership and management
 
-Once you're a manager your expected to, well, manage, but also lead.
+Once you're a manager you're expected to, well, manage, but also lead.
 Unfortunately, these two terms are constantly conflated.
 While certainly related, at least in practical terms, they refer to distinct concepts.
-According to Wikipedia, management "[_is the process of managing the resources of businesses, governments, and other organizations_](https://en.wikipedia.org/wiki/Management)" whereas leadership "[_encompasses the ability of an individual, group, or organization to 'lead', influence, or guide other individuals, teams, or entire organizations_.](https://en.wikipedia.org/wiki/Leadership)"
+According to Wikipedia, management "[_is the process of managing the resources of businesses, governments, and other organizations_](https://en.wikipedia.org/wiki/Management)" whereas leadership "[_encompasses the ability of an individual, group, or organization to 'lead', influence, or guide other individuals, teams, or entire organizations_](https://en.wikipedia.org/wiki/Leadership)."
 
 Let's start with management.
 Managing resources means deciding which resources are needed to reach an organization's goals, assigned them to concrete projects or tasks, and continually monitor and evaluate their performance.
