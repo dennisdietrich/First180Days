@@ -19,15 +19,15 @@ Certainly in a sense of "as ready as I'll ever be."
 But no matter how much (or little) you prepare, there's a huge difference between learning about the theory and best practices of leadership and management, and sitting in a meeting room for the first time with your new team, all eyes on you with a mix of curiosity, expectations, and suspicions.
 
 But back to the beginning.
-Readiness aside, how did I know I even wanted to be in that situation in the first place.
+Readiness aside, how did I know I even wanted to be in that situation in the first place?
 Luckily, I had a chance to be a lead developer back in 2016 (or rather, I was appointed to that role without ever having asked for it).
-I was not a manager since my responsibilities did not include hiring and performance evaluations, but I was arguably more than a tech lead because I had a certain amount of influence over these matters.
+I was not a manager since my responsibilities did not include things like hiring and performance evaluations, but I was arguably more than a tech lead because I had a certain amount of influence over these matters.
 The crucial part though was that my focus completely shifted.
 While I still worked on tooling and code on occasion, it was only a fraction of what I spent my time on.
 Instead, I dealt with process improvements, project management, unreasonable requests from business analysts (and reasonable ones too), and 1-on-1 meetings with the team members.
 A lead role similar to the one I had - with or without the "tech" in front of it - is a good first step and trial.
-If you enjoy it, you may consider giving the tech aspect entirely and becoming a full manager.
-But if you start to wish already that you'd have more time to work on architecture and code, don't just not proceed, but reverse course right there and then.
+If you enjoy it, you may consider giving up the tech aspect entirely and becoming a full manager.
+But if you start to wish already that you had have more time to work on architecture and code, don't just not proceed, but reverse course right there and then.
 
 I, for one, enjoyed applying my at that point 10 years of software engineering experience in the background to support and enable a team of developers immensely.
 But I was wondering what options there were for gaining a good theoretical foundation.
