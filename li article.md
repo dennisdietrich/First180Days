@@ -107,7 +107,7 @@ Now, I don't think there's any way to fully avoid these pitfalls, but being awar
 ### What's next?
 
 As a new manager, it's probably a good idea to master your new role.
-Because after all, that's what it is, a new job requiring new skills and a different mindset.
+After all, that's what it is, a new job requiring new skills and a different mindset.
 And maybe you'll want to simply enjoy the ride for a while; I don't think there's anything wrong this that.
 But if you want to advance in your new management career, there's a fundamental question to answer to ensure that the job experiences you seek out and any additional education will take you in the right direction:
 Do you want to move into general management or not?
