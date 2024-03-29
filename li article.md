@@ -27,7 +27,7 @@ While I still worked on tooling and code on occasion, it was only a fraction of 
 Instead, I dealt with process improvements, project management, unreasonable requests from business analysts (and reasonable ones too), and 1-on-1 meetings with the team members.
 A lead role similar to the one I had - with or without the "tech" in front of it - is a good first step and trial.
 If you enjoy it, you may consider giving up the tech aspect entirely and becoming a full manager.
-But if you start to wish already that you had have more time to work on architecture and code, don't just not proceed, but reverse course right there and then.
+But if you start to wish already that you had more time to work on architecture and code, don't just not proceed, but reverse course right there and then.
 
 I, for one, enjoyed applying my at that point 10 years of software engineering experience in the background to support and enable a team of developers immensely.
 But I was wondering what options there were for gaining a good theoretical foundation.
@@ -56,7 +56,7 @@ While certainly related, at least in practical terms, they refer to distinct con
 According to Wikipedia, management "[_is the process of managing the resources of businesses, governments, and other organizations_](https://en.wikipedia.org/wiki/Management)" whereas leadership "[_encompasses the ability of an individual, group, or organization to 'lead', influence, or guide other individuals, teams, or entire organizations_](https://en.wikipedia.org/wiki/Leadership)."
 
 Let's start with management.
-Managing resources means deciding which resources are needed to reach an organization's goals, assigned them to concrete projects or tasks, and continually monitor and evaluate their performance.
+Managing resources means deciding which resources are needed to reach an organization's goals, assigning them to concrete projects or tasks, and continually monitoring and evaluating their performance.
 While the term _human resources_ is facing increasing scrutiny and criticism (and arguably for good reasons), it is a technically accurate term.
 You need to figure out how many engineers you need to staff all of your projects.
 You need to assign those engineers to projects.
@@ -73,11 +73,10 @@ But when it comes for example to setting the annual goals for my senior and prin
 And they come up with some really great ideas what we should be working on.
 Which is actually a great segue to leadership.
 
-Honestly, I want to manage my team a little as possible.
-I want to focus on leading as much as possible.
+Honestly, I want to manage my team a little as possible; I want to focus on leading as much as possible.
 This means inspiring people, setting an example, and rallying people behind my organization's goals, instead of giving orders.
 And this is tricky, because you can't force someone to follow you.
-The people reporting you have to do what you tell them to, because you're the manager.
+The people reporting to you have to do what you tell them to, because you're the manager.
 That doesn't mean they always will, but you're well within your rights to do so and to put people on notice if they don't comply.
 But that isn't leadership and nothing I want to spend my time on.
 
@@ -98,7 +97,7 @@ Be prepared for people paying closer attention to what you say.
 And interestingly, this most likely won't go just for your direct reports, but also ICs in sister teams and even ICs in other groups you work closely with.
 But don't expect this to necessarily mean that you'll get your point across easily.
 Sometimes people will zero in on what in your mind was just a little detail or even a one-off comment.
-If that little detail turned out to be of particular importance on the receiving end, it may be the information that sticks, regardless of your intent.
+If that little detail turns out to be of particular importance on the receiving end, it may be the information that sticks, regardless of your intent.
 
 And speaking of intent, people will try to read between the lines.
 I learnt the hard way that this can go as far as someone assuming a particular, implied intent in what I'm saying, when in fact there wasn't any at all (I was merely asking clarification questions about something I didn't understand).
@@ -108,8 +107,8 @@ Now, I don't think there's any way to fully avoid these pitfalls, but being awar
 
 As a new manager, it's probably a good idea to master your new role.
 After all, that's what it is, a new job requiring new skills and a different mindset.
-And maybe you'll want to simply enjoy the ride for a while; I don't think there's anything wrong this that.
+And maybe you'll want to simply enjoy the ride for a while; I don't think there's anything wrong with that.
 But if you want to advance in your new management career, there's a fundamental question to answer to ensure that the job experiences you seek out and any additional education will take you in the right direction:
 Do you want to move into general management or not?
-Or in more concrete terms, is the goal to advance within engineering management and become a director or VP of software engineering, or do you want to become a business or product unit manager with full P&L responsibility and overseeing all functions of the unit?
+Or in more concrete terms, is the goal to advance within engineering management and become a director or VP of software engineering, or do you want to become a business or product unit manager with full P&L responsibility and overseeing all functions of that unit?
 And I shall leave you with this question as this is very much where I am after my first 180 days, trying to master my new role and figure out where I want to be in a few years (though at the moment I strongly tend to staying in engineering management).
