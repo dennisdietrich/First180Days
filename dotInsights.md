@@ -5,5 +5,7 @@ I ended up with almost 1900 words without even covering everything that'll be in
 
 This is how I ended up with submitting these two paragraphs you're currently reading and a new article on LinkedIn.
 Instead of a preview - or an _ad_, if you will - for an upcoming talk, it's a preview for a preview of an upcoming talk (and, yes, _Inception_ is one of my favorite movies).
-In it, I talk about how I got ready for taking on my first manager position, about the differences between leadership and management, and how being a manager will change how you communicate.
-So without further ado and for your reading pleasure I present: [_Sitting in meetings all day long: A preview of my first 180 days as a new Software Engineering Manager_](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+In it, I talk about how I got ready for taking on my first manager position by being a lead developer first, taking online courses, and reading books.
+I talk about the differences between leadership and management, and how an understanding of leadership, in particular informal leadership, is vital to succeeding as a manager.
+And finally, I talk about how communication gets both easier _and_ more difficult as well as things to consider about taking your career to the next level.
+So without further ado and for your reading pleasure I present: [_Sitting in meetings all day long: A preview of my first 180 days as a new Software Engineering Manager_](https://www.linkedin.com/pulse/sitting-meetings-all-day-long-preview-my-first-180-days-dietrich-7xisf/)
